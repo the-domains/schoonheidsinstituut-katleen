@@ -1,0 +1,28 @@
+name: Schoonheidsinstituut Katleen
+favicon: null
+layout_spectrum: 0.24383136187680066
+typography_spectrum: 0.1440068942029029
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3364713506307453
+  lightness: 0.3466929905116558
+  saturation: 0.7273269377183169
+  rhythmicContrast: 0.7730482374317944
+purpose: []
