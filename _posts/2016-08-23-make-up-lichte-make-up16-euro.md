@@ -5,21 +5,17 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'make-up -dagmake -up:16 euro'
-datePublished: '2016-08-23T11:49:08.784Z'
-dateModified: '2016-08-23T11:40:38.883Z'
+datePublished: '2016-08-23T11:50:22.268Z'
+dateModified: '2016-08-23T11:50:13.703Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-starred: true
+publisher: {}
 sourcePath: _posts/2016-08-23-make-up-lichte-make-up16-euro.md
+starred: false
 url: make-up-lichte-make-up16-euro/index.html
 _type: Article
 
