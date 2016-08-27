@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Maak kennis met onze gespecialiseerde behandelingen
-datePublished: '2016-08-27T09:20:17.275Z'
-dateModified: '2016-08-27T09:19:59.468Z'
+datePublished: '2016-08-27T09:23:23.264Z'
+dateModified: '2016-08-27T09:22:50.215Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-27-maak-kennis-met-onze-gespecialiseerde-behandelingen.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-27-maak-kennis-met-onze-gespecialiseerde-behandelingen.md
 url: maak-kennis-met-onze-gespecialiseerde-behandelingen/index.html
 _type: Article
 
