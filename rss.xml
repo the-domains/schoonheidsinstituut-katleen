@@ -4,7 +4,7 @@
         <description><![CDATA[Schoonheidsinstituut Katleen]]></description>
         <link>https://thegrid.ai/schoonheidsinstituut-katleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 06:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 09:23:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/schoonheidsinstituut-katleen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welkom]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Tue, 23 Aug 2016 12:30:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03562dac-c7a2-40be-a645-f2957b32d023.jpg">]]></description>
+            <link>https://thegrid.ai/schoonheidsinstituut-katleen/maak-kennis-met-onze-gespecialiseerde-behandelingen/index.html</link>
+            <guid isPermaLink="false">c49b5e66-3943-410f-be00-2e4f6399bcb4</guid>
+            <pubDate>Sat, 27 Aug 2016 09:23:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[make -up    -lichte make-up:16 euro]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb571f024f5a8ef8e2748180a2e064ac/croprotate.jpg?cropheight=5313&cropwidth=4983&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2f2255cb-e089-4d32-8b30-8a5951d34f3f.jpg&x=208&y=0" alt="" title="">]]></description>
             <link>https://thegrid.ai/schoonheidsinstituut-katleen/make-up-lichte-make-up16-euro/index.html</link>
@@ -79,13 +86,6 @@ GloMinerals richt zich op de bescherming boven al het andere, en beauty with a h
             <link>https://thegrid.ai/schoonheidsinstituut-katleen/glominerals/index.html</link>
             <guid isPermaLink="false">6d9c182d-037b-4016-975c-b834c479b5ac</guid>
             <pubDate>Thu, 24 Mar 2016 21:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22a3a96f-9a2b-4332-a1eb-5a72d495c733.jpg">]]></description>
-            <link>https://thegrid.ai/schoonheidsinstituut-katleen/specialist-in-voetverzorging-weet-wat-je-voeten-en-benen-n/index.html</link>
-            <guid isPermaLink="false">6fc5aeed-4c14-412d-ad8c-476c706bb39e</guid>
-            <pubDate>Thu, 24 Mar 2016 21:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
